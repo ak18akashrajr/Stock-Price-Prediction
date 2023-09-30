@@ -2,6 +2,7 @@
 # Stock Price Prediction
 
 Welcome to the Stock Price Prediction project! This repository contains tools and code for predicting stock prices using machine learning models. Whether you're a data enthusiast, trader, or just curious about stock price forecasting, this project aims to provide insights and tools to help you make informed decisions.
+ --Here I've Used MSFT Stocks to predict using LSTM--
 
 
 ## Introduction
